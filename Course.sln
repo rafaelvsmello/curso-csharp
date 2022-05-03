@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_01", "Exercicio_01\Exercicio_01.csproj", "{E48E91FC-37BA-4097-819A-66159B66E63E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_02", "Exercicio_02\Exercicio_02.csproj", "{9D4EA2EA-11A2-4B3C-973F-CED2D72E61A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_03", "Exercicio_03\Exercicio_03.csproj", "{60E226F7-9EFF-4F56-844B-43568063413A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_04", "Exercicio_04\Exercicio_04.csproj", "{7E307021-5962-42C4-91C9-85530C92C277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_05", "Exercicio_05\Exercicio_05.csproj", "{B7EA37C3-1463-4CC5-82B7-8A2720728813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_06", "Exercicio_06\Exercicio_06.csproj", "{4CCE74D4-5FFF-4855-B22B-97E05AC21F37}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Revisão", "Revisão", "{6207C835-DC57-4459-96EC-B72E85E569E4}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Users\Rafael\Downloads\prova-logica-de-programacao.pdf = ..\..\..\Users\Rafael\Downloads\prova-logica-de-programacao.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E48E91FC-37BA-4097-819A-66159B66E63E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E48E91FC-37BA-4097-819A-66159B66E63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E48E91FC-37BA-4097-819A-66159B66E63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E48E91FC-37BA-4097-819A-66159B66E63E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D4EA2EA-11A2-4B3C-973F-CED2D72E61A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D4EA2EA-11A2-4B3C-973F-CED2D72E61A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D4EA2EA-11A2-4B3C-973F-CED2D72E61A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D4EA2EA-11A2-4B3C-973F-CED2D72E61A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60E226F7-9EFF-4F56-844B-43568063413A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E226F7-9EFF-4F56-844B-43568063413A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E226F7-9EFF-4F56-844B-43568063413A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E226F7-9EFF-4F56-844B-43568063413A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E307021-5962-42C4-91C9-85530C92C277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E307021-5962-42C4-91C9-85530C92C277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E307021-5962-42C4-91C9-85530C92C277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E307021-5962-42C4-91C9-85530C92C277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7EA37C3-1463-4CC5-82B7-8A2720728813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7EA37C3-1463-4CC5-82B7-8A2720728813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7EA37C3-1463-4CC5-82B7-8A2720728813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7EA37C3-1463-4CC5-82B7-8A2720728813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CCE74D4-5FFF-4855-B22B-97E05AC21F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CCE74D4-5FFF-4855-B22B-97E05AC21F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CCE74D4-5FFF-4855-B22B-97E05AC21F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CCE74D4-5FFF-4855-B22B-97E05AC21F37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E48E91FC-37BA-4097-819A-66159B66E63E} = {6207C835-DC57-4459-96EC-B72E85E569E4}
+		{9D4EA2EA-11A2-4B3C-973F-CED2D72E61A4} = {6207C835-DC57-4459-96EC-B72E85E569E4}
+		{60E226F7-9EFF-4F56-844B-43568063413A} = {6207C835-DC57-4459-96EC-B72E85E569E4}
+		{7E307021-5962-42C4-91C9-85530C92C277} = {6207C835-DC57-4459-96EC-B72E85E569E4}
+		{B7EA37C3-1463-4CC5-82B7-8A2720728813} = {6207C835-DC57-4459-96EC-B72E85E569E4}
+		{4CCE74D4-5FFF-4855-B22B-97E05AC21F37} = {6207C835-DC57-4459-96EC-B72E85E569E4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DCE53E9-1F90-45D9-A614-767D2364F03D}
+	EndGlobalSection
+EndGlobal
